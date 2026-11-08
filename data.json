@@ -1,0 +1,193 @@
+window.__LOVE_DATA__ = {
+  "title": "橙汁和小马",
+  "subtitle": "从最开始的素不相识，到往后每一个日日夜夜。",
+  "startDate": "2026-11-07",
+  "coverImage": "images/photo-05.jpg",
+  "coverAlt": "粉色暮色里的海面与两只飞鸟",
+  "coverCaption": "第一次牵手，你的手好小。",
+  "heroQuote": "想把日子过得很慢，慢到每一次回头，都能看见你。",
+
+  "memo": [
+    {
+      "name": "第一次见面",
+      "date": "2025-10-12",
+      "icon": "✿",
+      "note": "小马和毛毛，橙汁和方姐四个人一起吃的铁锅炖。"
+    },
+    {
+      "name": "我们在一起",
+      "date": "2026-11-07",
+      "icon": "♡",
+      "note": "命中注定，这是天赐的良缘。"
+    },
+    {
+      "name": "第一次约会",
+      "date": "2026-03-21",
+      "icon": "☁",
+      "note": "在正弘城找了对方好久，最后橙汁找到了小马。"
+    },
+    {
+      "name": "橙汁的生日",
+      "date": "2006-09-13",
+      "icon": "✧",
+      "note": "希望你每一岁，都比上一年更自在。"
+    },
+    {
+      "name": "小马的生日",
+      "date": "2006-2-16",
+      "icon": "✦",
+      "note": "今后的每一年都有你来陪。"
+    },
+    {
+      "name": "第一次一起吃烤肉",
+      "date": "2026-03-21",
+      "icon": "≈",
+      "note": "橙汁很飒，烤肉也很好吃。"
+    }
+  ],
+
+  "diary": [
+    {
+      "date": "2026-01-01",
+      "title": "新年钟声敲响时",
+      "mood": "☀",
+      "content": "这是我们第一次互换新年祝福，愿我们都天天开心。"
+    },
+    {
+      "date":"2026-02-17" ,
+      "title":"春节，互相给对方送上新年祝福" ,
+      "mood": "☀",
+      "content": "此时两人还只是王者荣耀的游戏搭子，但是小马已经开始喜欢上橙汁了"
+    },
+    {
+      "date": "2026-4-26",
+      "title": "小马第一次去橙汁的学校找她",
+      "mood": "☀",
+      "content": "我们一起漫步在橙汁的校园，橙汁还运气爆棚的抽到了崩铁的纪念册，橙汁还请小马吃了小吃街，虽然天气炎热但一切都值得。"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "橙汁考教资",
+      "mood": "♡",
+      "content": "我们的第三次约会，我们一起吃了火锅，去了网吧。"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "橙汁生日",
+      "mood": "✿",
+      "content": "提前一个月就开始准备生日礼物了，橙汁很喜欢，可惜没能亲手送到橙汁手上。"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "暗生情愫的两人对齐颗粒度",
+      "mood": "✧",
+      "content": "橙汁搞不清两人的关系，我们聊了很久互换了心意"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "在一起",
+      "mood": "♡",
+      "content": "在电影院时，爽宝牵着我的手靠在我的肩膀上，我向橙汁说出了她等待已久的告白。"
+    }
+  ],
+
+  "album": [
+    {
+      "src": "images/photo-01.jpg",
+      "caption": "橙汁请我吃自助烤肉",
+      "date": "2026-03-21",
+      "alt": "橙汁说感谢我带她上王者但是，小马所图甚远",
+      "ratio": "4 / 5"
+    },
+    {
+      "src": "images/photo-02.jpg",
+      "caption": "第二次约会",
+      "date": "2026-04-26",
+      "alt": "肩并肩漫步在橙汁的学校",
+      "ratio": "7 / 5"
+    },
+    {
+      "src": "images/photo-03.jpg",
+      "caption": "在一起啦，在ktv记录幸福的瞬间",
+      "date": "2026-11-07",
+      "alt": "两个人在一起腻歪了好久",
+      "ratio": "1 / 1"
+    },
+    {
+      "src": "images/photo-04.jpg",
+      "caption": "橙汁自己去考教资小马来陪她啦",
+      "date": "2026-9-12",
+      "alt": "橙汁怕麻烦我，我不管我就是想去",
+      "ratio": "5 / 6"
+    },
+    {
+      "src": "images/photo-05.jpg",
+      "caption": "窗边的下午",
+      "date": "2023-04-09",
+      "alt": "窗边的树影和花影",
+      "ratio": "4 / 3"
+    },
+    {
+      "src": "images/photo-06.jpg",
+      "caption": "就这样炫耀橙汁给我钩的礼物",
+      "date": "2026-11-07",
+      "alt": "美滋滋",
+      "ratio": "4 / 5"
+    },
+    {
+      "src": "images/photo-07.jpg",
+      "caption": "可爱的橙汁",
+      "date": "2026-10-25",
+      "alt": "橙汁试戴一下最后帽子落到小马头上了",
+      "ratio": "4 / 3"
+    }
+  ],
+
+  "footerText": "愿我们一直有话可说，有事可做，有彼此可以想念。",
+  "footerSignature": "橙汁 & 小马 · 写于每一个普通的日子",
+  "footerSmall": "此页面只保存在本地 · 双击 index.html 即可翻阅",
+
+  "ui": {
+    "siteTitle": "橙汁和小马的纪念册",
+    "siteTitleSuffix": "恋爱纪念",
+    "heroEyebrow": "OUR LITTLE FOREVER",
+    "daysLabel": "我们已经相恋",
+    "daysUnit": "天",
+    "since": "始于",
+    "scrollHint": "向下翻阅",
+    "daysAria": "我们已经相恋 {n} 天",
+    "memoKicker": "OUR DAYS",
+    "memoTitle": "我们的纪念日",
+    "memoSubtitle": "每一个值得被记住的日子，都在这里",
+    "memoToday": "就是今天",
+    "memoTomorrow": "就是明天",
+    "memoDaysLeft": "还有 {n} 天",
+    "diaryKicker": "OUR STORY",
+    "diaryTitle": "恋爱日记",
+    "diarySubtitle": "写下来，就不会弄丢",
+    "diaryDay": "相恋第 {n} 天",
+    "albumKicker": "OUR MOMENTS",
+    "albumTitle": "时光相册",
+    "albumSubtitle": "把喜欢的瞬间，一页页收藏",
+    "albumHint": "点击放大",
+    "albumOpen": "查看大图：{caption}",
+    "lightboxHint": "再次点击任意位置关闭",
+    "lightboxClose": "关闭预览",
+    "emptyMemo": "还没有纪念日，去 data.json 添加吧",
+    "emptyDiary": "还没有日记，去 data.json 写下第一篇吧",
+    "emptyAlbum": "还没有照片，把喜欢的瞬间放进 images 吧",
+    "imageFallback": "照片暂时走丢了",
+    "photoAlt": "我们的合照",
+    "albumAlt": "相册照片",
+    "monthSuffix": "月",
+    "weekdays": ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
+    "loading": "正在翻开我们的故事",
+    "errorTitle": "故事暂时没有翻开",
+    "errorText": "没能读取到 data.json。请确认它和 index.html 放在同一个文件夹里。浏览器出于安全限制，有时会拦截本地文件读取，你可以点击下方按钮手动选择 data.json。",
+    "errorHint": "小提示：也可以把整个文件夹放到本地服务器中打开。",
+    "errorSelect": "选择 data.json",
+    "errorRetry": "再试一次",
+    "errorFoot": "数据只保存在你的设备上，不会上传。",
+    "errorInvalid": "这个文件似乎不是正确的 data.json，请检查格式后再试。"
+  }
+};
